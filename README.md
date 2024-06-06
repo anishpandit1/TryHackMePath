@@ -28,7 +28,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☑      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               |   Y                                       |
 | ☑      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |    Y                                   |
 | ☑      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |     Y                                    |
-| ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
+| ☑      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |    Y                                      |
 | ☑      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | ☑      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ☑      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |      Y                                    |
